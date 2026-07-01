@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0510/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說解憂經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0804.xml
+    old_id: T17n0804
+hash: sha256:0f34ee7fbdc1319a54fd7d00345e82cf806248d4534c99f31b92b3e6cec997c6
